@@ -84,17 +84,6 @@ Exploring computational optimization techniques and their applications in drug d
 - Winner of 8+ hackathons.
 - Former Google Developer Groups Lead and Project Lead at CODE.
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
 ---
 
 <p align="center">

@@ -21,14 +21,14 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
-- 🎓 MS in Computer Science student at **University of Massachusetts Amherst**.
-- 🔬 Previously worked as an **Artificial Intelligence Research Intern**, exploring optimization algorithms and machine learning.
-- 📝 Contributed to 10 research works, including peer-reviewed Springer book chapters, research papers, and a granted patent.
-- 🧠 Interested in understanding the theoretical foundations of AI and building practical applications around them.
-- 🛠️ I enjoy building things from scratch, experimenting with new technologies, and solving problems that sit at the intersection of mathematics and computer science.
-- 🌱 Currently exploring the deeper workings of Large Language Models.
+- MS in Computer Science student at **University of Massachusetts Amherst**.
+- Previously worked as an **Artificial Intelligence Research Intern**, exploring optimization algorithms and machine learning.
+- Contributed to 10 research works, including peer-reviewed Springer book chapters, research papers, and a granted patent.
+- Interested in understanding the theoretical foundations of AI and building practical applications around them.
+- I enjoy building things from scratch, experimenting with new technologies, and solving problems that sit at the intersection of mathematics and computer science.
+- Currently exploring the deeper workings of Large Language Models.
 
 ### 🔬 Research Interests
 

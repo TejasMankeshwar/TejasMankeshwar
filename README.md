@@ -14,8 +14,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/">LinkedIn</a> •
-  <a href="https://github.com/">GitHub</a> •
-  <a href="mailto:your-email@example.com">Email</a>
+  <a href="[https://github.com/](https://github.com/TejasMankeshwar)">GitHub</a> •
+  <a href="https://tejasmankeshwar.github.io/Website-Portfolio/">Portfolio</a>
+  <a href="mailto:tmankeshwar1@gmail.com">Email</a>
 </p>
 
 ---
